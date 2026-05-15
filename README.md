@@ -24,11 +24,13 @@ Software Engineering student with a strong foundation in full-stack web developm
 
 ## 📁 Projects
 
-- **[MindMate](link)** – AI Learning & Feedback Platform (React, MVC, Hugging Face APIs)
-- **[FoodieExpress](link)** – Food Delivery App (MERN, JWT Auth)
-- **[Wonderland ToyStore](link)** – E-Commerce App (Spring Boot, Stripe API)
-- **[ZipGo](link)** – Ride Sharing System (JavaFX, MySQL)
-- **[Fantasy Adventure Game](link)** – 2D Game (C++, SFML)
+- **[MindMate]** – AI Learning & Feedback Platform (React, MVC, Hugging Face APIs)
+- **[Wonderland ToyStore]** – E-Commerce App (Spring Boot, Stripe API)
+- **[ZipGo]** – Ride Sharing System (JavaFX, MySQL)
+- **[Fantasy Adventure Game]** – 2D Game (C++, SFML)
+- **[FoodieExpress](https://github.com/madeihaarshad/FoodieExpress-MERN.git)** – Full-stack MERN food delivery app (MERN, JWT Auth).
+- **[Firooz](https://github.com/madeihaarshad/Firooz-Ecommerce-Web-App.git)** – Modern e-commerce web application.
+- **[Mini Cafe Billing System](https://github.com/madeihaarshad/Mini-Cafe-Billing-System)** – Cafe billing system project.
 
 ---
 
